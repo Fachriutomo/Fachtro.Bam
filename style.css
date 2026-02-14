@@ -81,7 +81,7 @@ html {
 }
 
 .h1-footer {
-  display: flex;
+  display: inline;
   justify-content: center;
   align-items: center;
   color: red;
