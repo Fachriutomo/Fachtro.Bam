@@ -81,7 +81,7 @@ html {
 }
 
 .h1-footer {
-  display: center;
+  display: flex;
   justify-content: center;
   align-items: center;
   color: red;
@@ -90,6 +90,5 @@ html {
 .h3-footer {
   font-size: 15px;
   display: flex;
-  justify-content: center;
   align-content: center;
 }
